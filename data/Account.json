@@ -1,0 +1,44 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef1"
+            },
+            "Name": "Pyramid Construction Inc.",
+            "Type": "Customer - Channel",
+            "Phone": "(014) 427-4427",
+            "Fax": "(014) 427-4428"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef2"
+            },
+            "Name": "Dickenson plc",
+            "Type": "Customer - Channel",
+            "Phone": "(785) 241-6200",
+            "Fax": "(785) 241-6201"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef3"
+            },
+            "Name": "Express Logistics and Transport",
+            "Type": "Customer - Channel",
+            "Phone": "(503) 421-7800",
+            "Fax": "(503) 421-7801"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef4"
+            },
+            "Name": "GenePoint",
+            "Type": "Customer - Channel",
+            "Phone": "(650) 867-3450",
+            "Fax": "(650) 867-9895"
+        }
+    ]
+}
